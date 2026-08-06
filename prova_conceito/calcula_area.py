@@ -1,6 +1,4 @@
 class Retangulo:
-    altura = 0
-    largura = 0
 
     def __init__(self, altura, largura):
         self.altura = altura
